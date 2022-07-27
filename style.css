@@ -1,0 +1,38 @@
+body {
+    background-color: cornflowerblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#age {
+    color: rgb(5, 57, 73);
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+#main {
+    width: 50%;
+    margin: 0 auto;
+    background-color: rgba(197, 197, 233, 0.5);
+    padding: 50px;
+    text-align: center;
+    border-radius: 20%;
+    
+    
+}
+
+#ageH {
+    color: aliceblue;
+}
+
+#birthdayH,
+#bdFooter{
+    color: aliceblue;
+}
+
+#birthday {
+    color:  rgb(5, 57, 73);
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
